@@ -1,2 +1,2 @@
 # maxMoney
-a flutter project about Finance
+a flutter project about Finance (not done yet)
